@@ -35,7 +35,7 @@ Ideal for reporting, distribution, or archiving, this solution removes the need 
 
 ## 🧠 Visual Workflow
 
-![Power Automate Desktop Flow Screenshot](<img width="1600" height="900" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/fa04e0e8-c8ec-4705-a0ed-9a4f6670ffa2" />
+![Power Automate Desktop Flow Screenshot](<https://github.com/Kashyapdhimmar/Excel-Workbook-Splitter-Power-Automate-Desktop-Project/blob/a73028d98bf153df6ef9979cc335da967d268e27/Screenshot.png>
 )
 
 ---
