@@ -1,2 +1,1 @@
-# Excel-Workbook-Splitter---Power-Automate-Desktop-Project
-Automates the splitting of a multi-sheet Excel workbook into separate files using Power Automate Desktop a no-code solution for reporting, archiving, and data distribution.
+This project uses Power Automate Desktop to streamline the task of splitting Excel workbooks. It automates opening a source file, looping through each worksheet, and saving them as individual files — eliminating the need for VBA or manual copy-paste tasks. Ideal for MIS professionals and reporting automation workflows.
