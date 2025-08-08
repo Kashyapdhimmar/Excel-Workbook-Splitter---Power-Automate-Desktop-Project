@@ -38,6 +38,8 @@ Ideal for reporting, distribution, or archiving, this solution removes the need 
 ![Power Automate Desktop Flow Screenshot](<https://github.com/Kashyapdhimmar/Excel-Workbook-Splitter-Power-Automate-Desktop-Project/blob/a73028d98bf153df6ef9979cc335da967d268e27/Screenshot.png>
 )
 
+![Power Automate Desktop Flow Video](<https://github.com/Kashyapdhimmar/Excel-Workbook-Splitter-Power-Automate-Desktop-Project/blob/0bc9313fa783e314133463bf2b5b4d04aa43f48b/2025-08-08%2022-31-55.mkv>)
+
 ---
 
 ## 🚀 How to Use
